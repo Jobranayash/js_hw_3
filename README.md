@@ -1,1 +1,4 @@
-# js_hw_3
+# Homework 3 JavaScript Course ❤️
+
+### Jobran Ayash
+### Majd Bathiesh
